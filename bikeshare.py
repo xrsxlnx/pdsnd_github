@@ -1,3 +1,5 @@
+#This script will be used for Udacity Git project
+
 import time
 import pandas as pd
 import numpy as np
