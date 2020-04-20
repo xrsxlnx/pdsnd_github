@@ -1,4 +1,5 @@
 ### Date created
+
 4th of April 2020
 
 ### Project Title
@@ -14,6 +15,7 @@ chicago.csv
 new_york_city.csv
 chicago.csv
 bikeshare.py
+
 
 ### Credits
 https://github.com/laurent22/joplin
