@@ -1,15 +1,19 @@
 ### Date created
-Include the date you created this project and README file.
+04.20.2020
 
 ### Project Title
-Replace the Project Title
+Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+Explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
+Write code to import the data and answer interesting questions about it by computing descriptive statistics.
+Write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+chicago.csv
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://github.com/laurent22/joplin
